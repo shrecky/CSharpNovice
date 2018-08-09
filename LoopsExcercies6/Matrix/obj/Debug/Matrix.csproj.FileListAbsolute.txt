@@ -1,0 +1,7 @@
+D:\Sorce\LoopsExcercies6\Matrix\bin\Debug\Matrix.exe.config
+D:\Sorce\LoopsExcercies6\Matrix\bin\Debug\Matrix.exe
+D:\Sorce\LoopsExcercies6\Matrix\bin\Debug\Matrix.pdb
+D:\Sorce\LoopsExcercies6\Matrix\obj\Debug\Matrix.csproj.CoreCompileInputs.cache
+D:\Sorce\LoopsExcercies6\Matrix\obj\Debug\Matrix.exe
+D:\Sorce\LoopsExcercies6\Matrix\obj\Debug\Matrix.pdb
+D:\Sorce\LoopsExcercies6\Matrix\obj\Debug\Matrix.csprojAssemblyReference.cache

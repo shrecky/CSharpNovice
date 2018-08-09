@@ -1,0 +1,7 @@
+D:\Sorce\LoopsExcercies6\Catalan\bin\Debug\Catalan.exe.config
+D:\Sorce\LoopsExcercies6\Catalan\bin\Debug\Catalan.exe
+D:\Sorce\LoopsExcercies6\Catalan\bin\Debug\Catalan.pdb
+D:\Sorce\LoopsExcercies6\Catalan\obj\Debug\Catalan.csprojAssemblyReference.cache
+D:\Sorce\LoopsExcercies6\Catalan\obj\Debug\Catalan.csproj.CoreCompileInputs.cache
+D:\Sorce\LoopsExcercies6\Catalan\obj\Debug\Catalan.exe
+D:\Sorce\LoopsExcercies6\Catalan\obj\Debug\Catalan.pdb

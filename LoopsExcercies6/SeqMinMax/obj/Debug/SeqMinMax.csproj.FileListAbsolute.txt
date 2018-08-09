@@ -1,0 +1,7 @@
+D:\Sorce\LoopsExcercies6\SeqMinMax\bin\Debug\SeqMinMax.exe.config
+D:\Sorce\LoopsExcercies6\SeqMinMax\bin\Debug\SeqMinMax.exe
+D:\Sorce\LoopsExcercies6\SeqMinMax\bin\Debug\SeqMinMax.pdb
+D:\Sorce\LoopsExcercies6\SeqMinMax\obj\Debug\SeqMinMax.csproj.CoreCompileInputs.cache
+D:\Sorce\LoopsExcercies6\SeqMinMax\obj\Debug\SeqMinMax.exe
+D:\Sorce\LoopsExcercies6\SeqMinMax\obj\Debug\SeqMinMax.pdb
+D:\Sorce\LoopsExcercies6\SeqMinMax\obj\Debug\SeqMinMax.csprojAssemblyReference.cache

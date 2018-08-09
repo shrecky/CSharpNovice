@@ -1,0 +1,6 @@
+D:\Sorce\LoopsExcercies6\GreatestCommonDivisor\bin\Debug\GreatestCommonDivisor.exe.config
+D:\Sorce\LoopsExcercies6\GreatestCommonDivisor\bin\Debug\GreatestCommonDivisor.exe
+D:\Sorce\LoopsExcercies6\GreatestCommonDivisor\bin\Debug\GreatestCommonDivisor.pdb
+D:\Sorce\LoopsExcercies6\GreatestCommonDivisor\obj\Debug\GreatestCommonDivisor.csproj.CoreCompileInputs.cache
+D:\Sorce\LoopsExcercies6\GreatestCommonDivisor\obj\Debug\GreatestCommonDivisor.exe
+D:\Sorce\LoopsExcercies6\GreatestCommonDivisor\obj\Debug\GreatestCommonDivisor.pdb

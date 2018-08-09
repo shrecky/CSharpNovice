@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\LoopsExcercies6\LoopsExcercies6\bin\Debug\LoopsExcercies6.exe.config
+C:\Users\Lenovo\source\repos\LoopsExcercies6\LoopsExcercies6\bin\Debug\LoopsExcercies6.exe
+C:\Users\Lenovo\source\repos\LoopsExcercies6\LoopsExcercies6\bin\Debug\LoopsExcercies6.pdb
+C:\Users\Lenovo\source\repos\LoopsExcercies6\LoopsExcercies6\obj\Debug\NumbOneToN.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\LoopsExcercies6\LoopsExcercies6\obj\Debug\NumbOneToN.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\LoopsExcercies6\LoopsExcercies6\obj\Debug\LoopsExcercies6.exe
+C:\Users\Lenovo\source\repos\LoopsExcercies6\LoopsExcercies6\obj\Debug\LoopsExcercies6.pdb
+D:\Sorce\LoopsExcercies6\LoopsExcercies6\bin\Debug\LoopsExcercies6.exe.config
+D:\Sorce\LoopsExcercies6\LoopsExcercies6\bin\Debug\LoopsExcercies6.exe
+D:\Sorce\LoopsExcercies6\LoopsExcercies6\bin\Debug\LoopsExcercies6.pdb
+D:\Sorce\LoopsExcercies6\LoopsExcercies6\obj\Debug\NumbOneToN.csprojAssemblyReference.cache
+D:\Sorce\LoopsExcercies6\LoopsExcercies6\obj\Debug\NumbOneToN.csproj.CoreCompileInputs.cache
+D:\Sorce\LoopsExcercies6\LoopsExcercies6\obj\Debug\LoopsExcercies6.exe
+D:\Sorce\LoopsExcercies6\LoopsExcercies6\obj\Debug\LoopsExcercies6.pdb

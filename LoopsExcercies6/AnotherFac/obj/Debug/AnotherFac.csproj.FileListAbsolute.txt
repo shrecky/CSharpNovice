@@ -1,0 +1,7 @@
+D:\Sorce\LoopsExcercies6\AnotherFac\bin\Debug\AnotherFac.exe.config
+D:\Sorce\LoopsExcercies6\AnotherFac\bin\Debug\AnotherFac.exe
+D:\Sorce\LoopsExcercies6\AnotherFac\bin\Debug\AnotherFac.pdb
+D:\Sorce\LoopsExcercies6\AnotherFac\obj\Debug\AnotherFac.csproj.CoreCompileInputs.cache
+D:\Sorce\LoopsExcercies6\AnotherFac\obj\Debug\AnotherFac.exe
+D:\Sorce\LoopsExcercies6\AnotherFac\obj\Debug\AnotherFac.pdb
+D:\Sorce\LoopsExcercies6\AnotherFac\obj\Debug\AnotherFac.csprojAssemblyReference.cache

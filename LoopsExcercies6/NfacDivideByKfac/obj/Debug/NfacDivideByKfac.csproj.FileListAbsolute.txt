@@ -1,0 +1,7 @@
+D:\Sorce\LoopsExcercies6\NfacDivideByKfac\bin\Debug\NfacDivideByKfac.exe.config
+D:\Sorce\LoopsExcercies6\NfacDivideByKfac\bin\Debug\NfacDivideByKfac.exe
+D:\Sorce\LoopsExcercies6\NfacDivideByKfac\bin\Debug\NfacDivideByKfac.pdb
+D:\Sorce\LoopsExcercies6\NfacDivideByKfac\obj\Debug\NfacDivideByKfac.csproj.CoreCompileInputs.cache
+D:\Sorce\LoopsExcercies6\NfacDivideByKfac\obj\Debug\NfacDivideByKfac.exe
+D:\Sorce\LoopsExcercies6\NfacDivideByKfac\obj\Debug\NfacDivideByKfac.pdb
+D:\Sorce\LoopsExcercies6\NfacDivideByKfac\obj\Debug\NfacDivideByKfac.csprojAssemblyReference.cache

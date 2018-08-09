@@ -1,0 +1,7 @@
+D:\Sorce\LoopsExcercies6\NumbOneToN3and7\bin\Debug\NumbOneToN3and7.exe.config
+D:\Sorce\LoopsExcercies6\NumbOneToN3and7\bin\Debug\NumbOneToN3and7.exe
+D:\Sorce\LoopsExcercies6\NumbOneToN3and7\bin\Debug\NumbOneToN3and7.pdb
+D:\Sorce\LoopsExcercies6\NumbOneToN3and7\obj\Debug\NumbOneToN3and7.csprojAssemblyReference.cache
+D:\Sorce\LoopsExcercies6\NumbOneToN3and7\obj\Debug\NumbOneToN3and7.csproj.CoreCompileInputs.cache
+D:\Sorce\LoopsExcercies6\NumbOneToN3and7\obj\Debug\NumbOneToN3and7.exe
+D:\Sorce\LoopsExcercies6\NumbOneToN3and7\obj\Debug\NumbOneToN3and7.pdb

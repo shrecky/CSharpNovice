@@ -1,0 +1,7 @@
+D:\Sorce\LoopsExcercies6\FibonacciSum\obj\Debug\FibonacciSum.csprojAssemblyReference.cache
+D:\Sorce\LoopsExcercies6\FibonacciSum\obj\Debug\FibonacciSum.csproj.CoreCompileInputs.cache
+D:\Sorce\LoopsExcercies6\FibonacciSum\bin\Debug\FibonacciSum.exe.config
+D:\Sorce\LoopsExcercies6\FibonacciSum\bin\Debug\FibonacciSum.exe
+D:\Sorce\LoopsExcercies6\FibonacciSum\bin\Debug\FibonacciSum.pdb
+D:\Sorce\LoopsExcercies6\FibonacciSum\obj\Debug\FibonacciSum.exe
+D:\Sorce\LoopsExcercies6\FibonacciSum\obj\Debug\FibonacciSum.pdb

@@ -1,0 +1,6 @@
+D:\Projects\Kurs\ExamplesIfElse\UserChoice\bin\Debug\UserChoice.exe.config
+D:\Projects\Kurs\ExamplesIfElse\UserChoice\bin\Debug\UserChoice.exe
+D:\Projects\Kurs\ExamplesIfElse\UserChoice\bin\Debug\UserChoice.pdb
+D:\Projects\Kurs\ExamplesIfElse\UserChoice\obj\Debug\UserChoice.csproj.CoreCompileInputs.cache
+D:\Projects\Kurs\ExamplesIfElse\UserChoice\obj\Debug\UserChoice.exe
+D:\Projects\Kurs\ExamplesIfElse\UserChoice\obj\Debug\UserChoice.pdb

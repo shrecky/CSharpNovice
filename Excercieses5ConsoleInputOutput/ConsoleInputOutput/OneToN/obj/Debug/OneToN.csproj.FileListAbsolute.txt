@@ -1,0 +1,7 @@
+D:\Projects\Excercieses5ConsoleInputOutput\ConsoleInputOutput\OneToN\bin\Debug\OneToN.exe.config
+D:\Projects\Excercieses5ConsoleInputOutput\ConsoleInputOutput\OneToN\bin\Debug\OneToN.exe
+D:\Projects\Excercieses5ConsoleInputOutput\ConsoleInputOutput\OneToN\bin\Debug\OneToN.pdb
+D:\Projects\Excercieses5ConsoleInputOutput\ConsoleInputOutput\OneToN\obj\Debug\OneToN.csprojAssemblyReference.cache
+D:\Projects\Excercieses5ConsoleInputOutput\ConsoleInputOutput\OneToN\obj\Debug\OneToN.csproj.CoreCompileInputs.cache
+D:\Projects\Excercieses5ConsoleInputOutput\ConsoleInputOutput\OneToN\obj\Debug\OneToN.exe
+D:\Projects\Excercieses5ConsoleInputOutput\ConsoleInputOutput\OneToN\obj\Debug\OneToN.pdb

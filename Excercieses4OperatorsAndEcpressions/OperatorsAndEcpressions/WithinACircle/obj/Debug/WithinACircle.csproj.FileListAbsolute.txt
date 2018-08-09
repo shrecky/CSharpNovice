@@ -1,0 +1,7 @@
+D:\Projects\Excercieses4OperatorsAndEcpressions\OperatorsAndEcpressions\WithinACircle\bin\Debug\WithinACircle.exe.config
+D:\Projects\Excercieses4OperatorsAndEcpressions\OperatorsAndEcpressions\WithinACircle\bin\Debug\WithinACircle.exe
+D:\Projects\Excercieses4OperatorsAndEcpressions\OperatorsAndEcpressions\WithinACircle\bin\Debug\WithinACircle.pdb
+D:\Projects\Excercieses4OperatorsAndEcpressions\OperatorsAndEcpressions\WithinACircle\obj\Debug\WithinACircle.csprojAssemblyReference.cache
+D:\Projects\Excercieses4OperatorsAndEcpressions\OperatorsAndEcpressions\WithinACircle\obj\Debug\WithinACircle.csproj.CoreCompileInputs.cache
+D:\Projects\Excercieses4OperatorsAndEcpressions\OperatorsAndEcpressions\WithinACircle\obj\Debug\WithinACircle.exe
+D:\Projects\Excercieses4OperatorsAndEcpressions\OperatorsAndEcpressions\WithinACircle\obj\Debug\WithinACircle.pdb

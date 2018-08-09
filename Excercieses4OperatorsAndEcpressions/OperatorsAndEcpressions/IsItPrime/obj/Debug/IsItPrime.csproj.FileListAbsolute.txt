@@ -1,0 +1,6 @@
+D:\Projects\Excercieses4OperatorsAndEcpressions\OperatorsAndEcpressions\IsItPrime\bin\Debug\IsItPrime.exe.config
+D:\Projects\Excercieses4OperatorsAndEcpressions\OperatorsAndEcpressions\IsItPrime\bin\Debug\IsItPrime.exe
+D:\Projects\Excercieses4OperatorsAndEcpressions\OperatorsAndEcpressions\IsItPrime\bin\Debug\IsItPrime.pdb
+D:\Projects\Excercieses4OperatorsAndEcpressions\OperatorsAndEcpressions\IsItPrime\obj\Debug\IsItPrime.csproj.CoreCompileInputs.cache
+D:\Projects\Excercieses4OperatorsAndEcpressions\OperatorsAndEcpressions\IsItPrime\obj\Debug\IsItPrime.exe
+D:\Projects\Excercieses4OperatorsAndEcpressions\OperatorsAndEcpressions\IsItPrime\obj\Debug\IsItPrime.pdb

@@ -1,0 +1,7 @@
+D:\Projects\Excercieses4OperatorsAndEcpressions\OperatorsAndEcpressions\TrapezoidArea\bin\Debug\TrapezoidArea.exe.config
+D:\Projects\Excercieses4OperatorsAndEcpressions\OperatorsAndEcpressions\TrapezoidArea\bin\Debug\TrapezoidArea.exe
+D:\Projects\Excercieses4OperatorsAndEcpressions\OperatorsAndEcpressions\TrapezoidArea\bin\Debug\TrapezoidArea.pdb
+D:\Projects\Excercieses4OperatorsAndEcpressions\OperatorsAndEcpressions\TrapezoidArea\obj\Debug\TrapezoidArea.csprojAssemblyReference.cache
+D:\Projects\Excercieses4OperatorsAndEcpressions\OperatorsAndEcpressions\TrapezoidArea\obj\Debug\TrapezoidArea.csproj.CoreCompileInputs.cache
+D:\Projects\Excercieses4OperatorsAndEcpressions\OperatorsAndEcpressions\TrapezoidArea\obj\Debug\TrapezoidArea.exe
+D:\Projects\Excercieses4OperatorsAndEcpressions\OperatorsAndEcpressions\TrapezoidArea\obj\Debug\TrapezoidArea.pdb

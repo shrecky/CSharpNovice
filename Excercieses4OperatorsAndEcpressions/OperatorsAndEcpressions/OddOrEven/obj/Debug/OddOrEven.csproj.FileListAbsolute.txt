@@ -1,0 +1,7 @@
+D:\Projects\Excercieses4OperatorsAndEcpressions\OperatorsAndEcpressions\OddOrEven\bin\Debug\OddOrEven.exe.config
+D:\Projects\Excercieses4OperatorsAndEcpressions\OperatorsAndEcpressions\OddOrEven\bin\Debug\OddOrEven.exe
+D:\Projects\Excercieses4OperatorsAndEcpressions\OperatorsAndEcpressions\OddOrEven\bin\Debug\OddOrEven.pdb
+D:\Projects\Excercieses4OperatorsAndEcpressions\OperatorsAndEcpressions\OddOrEven\obj\Debug\OddOrEven.csprojAssemblyReference.cache
+D:\Projects\Excercieses4OperatorsAndEcpressions\OperatorsAndEcpressions\OddOrEven\obj\Debug\OddOrEven.csproj.CoreCompileInputs.cache
+D:\Projects\Excercieses4OperatorsAndEcpressions\OperatorsAndEcpressions\OddOrEven\obj\Debug\OddOrEven.exe
+D:\Projects\Excercieses4OperatorsAndEcpressions\OperatorsAndEcpressions\OddOrEven\obj\Debug\OddOrEven.pdb

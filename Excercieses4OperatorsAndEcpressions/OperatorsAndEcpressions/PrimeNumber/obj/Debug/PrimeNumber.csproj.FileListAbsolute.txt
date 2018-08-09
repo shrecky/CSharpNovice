@@ -1,0 +1,7 @@
+D:\Projects\Excercieses4OperatorsAndEcpressions\OperatorsAndEcpressions\PrimeNumber\bin\Debug\PrimeNumber.exe.config
+D:\Projects\Excercieses4OperatorsAndEcpressions\OperatorsAndEcpressions\PrimeNumber\bin\Debug\PrimeNumber.exe
+D:\Projects\Excercieses4OperatorsAndEcpressions\OperatorsAndEcpressions\PrimeNumber\bin\Debug\PrimeNumber.pdb
+D:\Projects\Excercieses4OperatorsAndEcpressions\OperatorsAndEcpressions\PrimeNumber\obj\Debug\PrimeNumber.csprojAssemblyReference.cache
+D:\Projects\Excercieses4OperatorsAndEcpressions\OperatorsAndEcpressions\PrimeNumber\obj\Debug\PrimeNumber.csproj.CoreCompileInputs.cache
+D:\Projects\Excercieses4OperatorsAndEcpressions\OperatorsAndEcpressions\PrimeNumber\obj\Debug\PrimeNumber.exe
+D:\Projects\Excercieses4OperatorsAndEcpressions\OperatorsAndEcpressions\PrimeNumber\obj\Debug\PrimeNumber.pdb

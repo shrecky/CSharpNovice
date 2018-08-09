@@ -1,0 +1,7 @@
+D:\Projects\Excercieses5ConsoleInputOutput\ConsoleInputOutput\CirclePerimeterArea\bin\Debug\CirclePerimeterArea.exe.config
+D:\Projects\Excercieses5ConsoleInputOutput\ConsoleInputOutput\CirclePerimeterArea\bin\Debug\CirclePerimeterArea.exe
+D:\Projects\Excercieses5ConsoleInputOutput\ConsoleInputOutput\CirclePerimeterArea\bin\Debug\CirclePerimeterArea.pdb
+D:\Projects\Excercieses5ConsoleInputOutput\ConsoleInputOutput\CirclePerimeterArea\obj\Debug\CirclePerimeterArea.csprojAssemblyReference.cache
+D:\Projects\Excercieses5ConsoleInputOutput\ConsoleInputOutput\CirclePerimeterArea\obj\Debug\CirclePerimeterArea.csproj.CoreCompileInputs.cache
+D:\Projects\Excercieses5ConsoleInputOutput\ConsoleInputOutput\CirclePerimeterArea\obj\Debug\CirclePerimeterArea.exe
+D:\Projects\Excercieses5ConsoleInputOutput\ConsoleInputOutput\CirclePerimeterArea\obj\Debug\CirclePerimeterArea.pdb

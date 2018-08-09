@@ -1,0 +1,6 @@
+D:\Projects\Excercieses3 ConditionalStatements\ConsoleApp1\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+D:\Projects\Excercieses3 ConditionalStatements\ConsoleApp1\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+D:\Projects\Excercieses3 ConditionalStatements\ConsoleApp1\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+D:\Projects\Excercieses3 ConditionalStatements\ConsoleApp1\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CoreCompileInputs.cache
+D:\Projects\Excercieses3 ConditionalStatements\ConsoleApp1\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+D:\Projects\Excercieses3 ConditionalStatements\ConsoleApp1\ConsoleApp3\obj\Debug\ConsoleApp3.pdb

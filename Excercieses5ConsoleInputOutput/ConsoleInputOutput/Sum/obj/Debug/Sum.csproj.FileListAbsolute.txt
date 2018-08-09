@@ -1,0 +1,6 @@
+D:\Projects\Excercieses5ConsoleInputOutput\ConsoleInputOutput\Sum\bin\Debug\Sum.exe.config
+D:\Projects\Excercieses5ConsoleInputOutput\ConsoleInputOutput\Sum\bin\Debug\Sum.exe
+D:\Projects\Excercieses5ConsoleInputOutput\ConsoleInputOutput\Sum\bin\Debug\Sum.pdb
+D:\Projects\Excercieses5ConsoleInputOutput\ConsoleInputOutput\Sum\obj\Debug\Sum.csproj.CoreCompileInputs.cache
+D:\Projects\Excercieses5ConsoleInputOutput\ConsoleInputOutput\Sum\obj\Debug\Sum.exe
+D:\Projects\Excercieses5ConsoleInputOutput\ConsoleInputOutput\Sum\obj\Debug\Sum.pdb

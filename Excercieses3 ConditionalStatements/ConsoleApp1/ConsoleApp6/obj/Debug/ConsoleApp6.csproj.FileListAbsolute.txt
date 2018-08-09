@@ -1,0 +1,7 @@
+D:\Projects\Excercieses3 ConditionalStatements\ConsoleApp1\ConsoleApp6\bin\Debug\ConsoleApp6.exe.config
+D:\Projects\Excercieses3 ConditionalStatements\ConsoleApp1\ConsoleApp6\bin\Debug\ConsoleApp6.exe
+D:\Projects\Excercieses3 ConditionalStatements\ConsoleApp1\ConsoleApp6\bin\Debug\ConsoleApp6.pdb
+D:\Projects\Excercieses3 ConditionalStatements\ConsoleApp1\ConsoleApp6\obj\Debug\ConsoleApp6.csprojAssemblyReference.cache
+D:\Projects\Excercieses3 ConditionalStatements\ConsoleApp1\ConsoleApp6\obj\Debug\ConsoleApp6.csproj.CoreCompileInputs.cache
+D:\Projects\Excercieses3 ConditionalStatements\ConsoleApp1\ConsoleApp6\obj\Debug\ConsoleApp6.exe
+D:\Projects\Excercieses3 ConditionalStatements\ConsoleApp1\ConsoleApp6\obj\Debug\ConsoleApp6.pdb

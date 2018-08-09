@@ -1,0 +1,6 @@
+D:\Projects\Excercieses4OperatorsAndEcpressions\OperatorsAndEcpressions\DividedBy7And5\bin\Debug\DividedBy7And5.exe.config
+D:\Projects\Excercieses4OperatorsAndEcpressions\OperatorsAndEcpressions\DividedBy7And5\bin\Debug\DividedBy7And5.exe
+D:\Projects\Excercieses4OperatorsAndEcpressions\OperatorsAndEcpressions\DividedBy7And5\bin\Debug\DividedBy7And5.pdb
+D:\Projects\Excercieses4OperatorsAndEcpressions\OperatorsAndEcpressions\DividedBy7And5\obj\Debug\DividedBy7And5.csproj.CoreCompileInputs.cache
+D:\Projects\Excercieses4OperatorsAndEcpressions\OperatorsAndEcpressions\DividedBy7And5\obj\Debug\DividedBy7And5.exe
+D:\Projects\Excercieses4OperatorsAndEcpressions\OperatorsAndEcpressions\DividedBy7And5\obj\Debug\DividedBy7And5.pdb

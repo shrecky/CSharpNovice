@@ -1,0 +1,7 @@
+D:\Projects\Excercieses3 ConditionalStatements\ConsoleApp1\ConsoleApp5\bin\Debug\ConsoleApp5.exe.config
+D:\Projects\Excercieses3 ConditionalStatements\ConsoleApp1\ConsoleApp5\bin\Debug\ConsoleApp5.exe
+D:\Projects\Excercieses3 ConditionalStatements\ConsoleApp1\ConsoleApp5\bin\Debug\ConsoleApp5.pdb
+D:\Projects\Excercieses3 ConditionalStatements\ConsoleApp1\ConsoleApp5\obj\Debug\ConsoleApp5.csproj.CoreCompileInputs.cache
+D:\Projects\Excercieses3 ConditionalStatements\ConsoleApp1\ConsoleApp5\obj\Debug\ConsoleApp5.exe
+D:\Projects\Excercieses3 ConditionalStatements\ConsoleApp1\ConsoleApp5\obj\Debug\ConsoleApp5.pdb
+D:\Projects\Excercieses3 ConditionalStatements\ConsoleApp1\ConsoleApp5\obj\Debug\ConsoleApp5.csprojAssemblyReference.cache

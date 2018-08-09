@@ -1,0 +1,7 @@
+D:\Projects\Excercieses4OperatorsAndEcpressions\OperatorsAndEcpressions\Bit3\bin\Debug\Bit3.exe.config
+D:\Projects\Excercieses4OperatorsAndEcpressions\OperatorsAndEcpressions\Bit3\bin\Debug\Bit3.exe
+D:\Projects\Excercieses4OperatorsAndEcpressions\OperatorsAndEcpressions\Bit3\bin\Debug\Bit3.pdb
+D:\Projects\Excercieses4OperatorsAndEcpressions\OperatorsAndEcpressions\Bit3\obj\Debug\Bit3.csprojAssemblyReference.cache
+D:\Projects\Excercieses4OperatorsAndEcpressions\OperatorsAndEcpressions\Bit3\obj\Debug\Bit3.csproj.CoreCompileInputs.cache
+D:\Projects\Excercieses4OperatorsAndEcpressions\OperatorsAndEcpressions\Bit3\obj\Debug\Bit3.exe
+D:\Projects\Excercieses4OperatorsAndEcpressions\OperatorsAndEcpressions\Bit3\obj\Debug\Bit3.pdb

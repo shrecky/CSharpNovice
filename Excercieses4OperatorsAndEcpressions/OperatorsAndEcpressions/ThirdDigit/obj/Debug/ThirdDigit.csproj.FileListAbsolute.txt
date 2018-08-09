@@ -1,0 +1,6 @@
+D:\Projects\Excercieses4OperatorsAndEcpressions\OperatorsAndEcpressions\ThirdDigit\bin\Debug\ThirdDigit.exe.config
+D:\Projects\Excercieses4OperatorsAndEcpressions\OperatorsAndEcpressions\ThirdDigit\bin\Debug\ThirdDigit.exe
+D:\Projects\Excercieses4OperatorsAndEcpressions\OperatorsAndEcpressions\ThirdDigit\bin\Debug\ThirdDigit.pdb
+D:\Projects\Excercieses4OperatorsAndEcpressions\OperatorsAndEcpressions\ThirdDigit\obj\Debug\ThirdDigit.csproj.CoreCompileInputs.cache
+D:\Projects\Excercieses4OperatorsAndEcpressions\OperatorsAndEcpressions\ThirdDigit\obj\Debug\ThirdDigit.exe
+D:\Projects\Excercieses4OperatorsAndEcpressions\OperatorsAndEcpressions\ThirdDigit\obj\Debug\ThirdDigit.pdb

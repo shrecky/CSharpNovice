@@ -1,0 +1,6 @@
+D:\Projects\Excercieses4OperatorsAndEcpressions\OperatorsAndEcpressions\Rectangle'sArea\bin\Debug\Rectangle'sArea.exe.config
+D:\Projects\Excercieses4OperatorsAndEcpressions\OperatorsAndEcpressions\Rectangle'sArea\bin\Debug\Rectangle'sArea.exe
+D:\Projects\Excercieses4OperatorsAndEcpressions\OperatorsAndEcpressions\Rectangle'sArea\bin\Debug\Rectangle'sArea.pdb
+D:\Projects\Excercieses4OperatorsAndEcpressions\OperatorsAndEcpressions\Rectangle'sArea\obj\Debug\Rectangle'sArea.csproj.CoreCompileInputs.cache
+D:\Projects\Excercieses4OperatorsAndEcpressions\OperatorsAndEcpressions\Rectangle'sArea\obj\Debug\Rectangle'sArea.exe
+D:\Projects\Excercieses4OperatorsAndEcpressions\OperatorsAndEcpressions\Rectangle'sArea\obj\Debug\Rectangle'sArea.pdb

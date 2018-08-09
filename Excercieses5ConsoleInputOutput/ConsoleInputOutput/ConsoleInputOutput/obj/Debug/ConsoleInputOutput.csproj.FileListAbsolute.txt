@@ -1,0 +1,7 @@
+D:\Projects\Excercieses5ConsoleInputOutput\ConsoleInputOutput\ConsoleInputOutput\bin\Debug\ConsoleInputOutput.exe.config
+D:\Projects\Excercieses5ConsoleInputOutput\ConsoleInputOutput\ConsoleInputOutput\bin\Debug\ConsoleInputOutput.exe
+D:\Projects\Excercieses5ConsoleInputOutput\ConsoleInputOutput\ConsoleInputOutput\bin\Debug\ConsoleInputOutput.pdb
+D:\Projects\Excercieses5ConsoleInputOutput\ConsoleInputOutput\ConsoleInputOutput\obj\Debug\ConsoleInputOutput.csprojAssemblyReference.cache
+D:\Projects\Excercieses5ConsoleInputOutput\ConsoleInputOutput\ConsoleInputOutput\obj\Debug\ConsoleInputOutput.csproj.CoreCompileInputs.cache
+D:\Projects\Excercieses5ConsoleInputOutput\ConsoleInputOutput\ConsoleInputOutput\obj\Debug\ConsoleInputOutput.exe
+D:\Projects\Excercieses5ConsoleInputOutput\ConsoleInputOutput\ConsoleInputOutput\obj\Debug\ConsoleInputOutput.pdb

@@ -1,0 +1,7 @@
+D:\Sorce\ArraysHomeWork\BinarySearchAlgorithm\bin\Debug\BinarySearchAlgorithm.exe.config
+D:\Sorce\ArraysHomeWork\BinarySearchAlgorithm\bin\Debug\BinarySearchAlgorithm.exe
+D:\Sorce\ArraysHomeWork\BinarySearchAlgorithm\bin\Debug\BinarySearchAlgorithm.pdb
+D:\Sorce\ArraysHomeWork\BinarySearchAlgorithm\obj\Debug\BinarySearchAlgorithm.csprojAssemblyReference.cache
+D:\Sorce\ArraysHomeWork\BinarySearchAlgorithm\obj\Debug\BinarySearchAlgorithm.csproj.CoreCompileInputs.cache
+D:\Sorce\ArraysHomeWork\BinarySearchAlgorithm\obj\Debug\BinarySearchAlgorithm.exe
+D:\Sorce\ArraysHomeWork\BinarySearchAlgorithm\obj\Debug\BinarySearchAlgorithm.pdb

@@ -1,0 +1,7 @@
+D:\Sorce\ArraysHomeWork\CharArrayCompare\bin\Debug\CharArrayCompare.exe.config
+D:\Sorce\ArraysHomeWork\CharArrayCompare\bin\Debug\CharArrayCompare.exe
+D:\Sorce\ArraysHomeWork\CharArrayCompare\bin\Debug\CharArrayCompare.pdb
+D:\Sorce\ArraysHomeWork\CharArrayCompare\obj\Debug\CharArrayCompare.csprojAssemblyReference.cache
+D:\Sorce\ArraysHomeWork\CharArrayCompare\obj\Debug\CharArrayCompare.csproj.CoreCompileInputs.cache
+D:\Sorce\ArraysHomeWork\CharArrayCompare\obj\Debug\CharArrayCompare.exe
+D:\Sorce\ArraysHomeWork\CharArrayCompare\obj\Debug\CharArrayCompare.pdb

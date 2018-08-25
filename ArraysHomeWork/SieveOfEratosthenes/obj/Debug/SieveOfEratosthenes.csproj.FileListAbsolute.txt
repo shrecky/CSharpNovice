@@ -1,0 +1,6 @@
+D:\Sorce\ArraysHomeWork\SieveOfEratosthenes\bin\Debug\SieveOfEratosthenes.exe.config
+D:\Sorce\ArraysHomeWork\SieveOfEratosthenes\bin\Debug\SieveOfEratosthenes.exe
+D:\Sorce\ArraysHomeWork\SieveOfEratosthenes\bin\Debug\SieveOfEratosthenes.pdb
+D:\Sorce\ArraysHomeWork\SieveOfEratosthenes\obj\Debug\SieveOfEratosthenes.csproj.CoreCompileInputs.cache
+D:\Sorce\ArraysHomeWork\SieveOfEratosthenes\obj\Debug\SieveOfEratosthenes.exe
+D:\Sorce\ArraysHomeWork\SieveOfEratosthenes\obj\Debug\SieveOfEratosthenes.pdb

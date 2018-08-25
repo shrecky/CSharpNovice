@@ -1,0 +1,7 @@
+D:\Sorce\ArraysHomeWork\SubsetWithGivenSum\bin\Debug\SubsetWithGivenSum.exe.config
+D:\Sorce\ArraysHomeWork\SubsetWithGivenSum\bin\Debug\SubsetWithGivenSum.exe
+D:\Sorce\ArraysHomeWork\SubsetWithGivenSum\bin\Debug\SubsetWithGivenSum.pdb
+D:\Sorce\ArraysHomeWork\SubsetWithGivenSum\obj\Debug\SubsetWithGivenSum.csprojAssemblyReference.cache
+D:\Sorce\ArraysHomeWork\SubsetWithGivenSum\obj\Debug\SubsetWithGivenSum.csproj.CoreCompileInputs.cache
+D:\Sorce\ArraysHomeWork\SubsetWithGivenSum\obj\Debug\SubsetWithGivenSum.exe
+D:\Sorce\ArraysHomeWork\SubsetWithGivenSum\obj\Debug\SubsetWithGivenSum.pdb

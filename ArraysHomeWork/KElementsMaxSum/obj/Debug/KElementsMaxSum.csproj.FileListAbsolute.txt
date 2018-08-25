@@ -1,0 +1,7 @@
+D:\Sorce\ArraysHomeWork\KElementsMaxSum\bin\Debug\KElementsMaxSum.exe.config
+D:\Sorce\ArraysHomeWork\KElementsMaxSum\bin\Debug\KElementsMaxSum.exe
+D:\Sorce\ArraysHomeWork\KElementsMaxSum\bin\Debug\KElementsMaxSum.pdb
+D:\Sorce\ArraysHomeWork\KElementsMaxSum\obj\Debug\KElementsMaxSum.csprojAssemblyReference.cache
+D:\Sorce\ArraysHomeWork\KElementsMaxSum\obj\Debug\KElementsMaxSum.csproj.CoreCompileInputs.cache
+D:\Sorce\ArraysHomeWork\KElementsMaxSum\obj\Debug\KElementsMaxSum.exe
+D:\Sorce\ArraysHomeWork\KElementsMaxSum\obj\Debug\KElementsMaxSum.pdb

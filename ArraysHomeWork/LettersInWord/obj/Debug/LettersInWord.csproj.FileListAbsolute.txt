@@ -1,0 +1,7 @@
+D:\Sorce\ArraysHomeWork\LettersInWord\bin\Debug\LettersInWord.exe.config
+D:\Sorce\ArraysHomeWork\LettersInWord\bin\Debug\LettersInWord.exe
+D:\Sorce\ArraysHomeWork\LettersInWord\bin\Debug\LettersInWord.pdb
+D:\Sorce\ArraysHomeWork\LettersInWord\obj\Debug\LettersInWord.csprojAssemblyReference.cache
+D:\Sorce\ArraysHomeWork\LettersInWord\obj\Debug\LettersInWord.csproj.CoreCompileInputs.cache
+D:\Sorce\ArraysHomeWork\LettersInWord\obj\Debug\LettersInWord.exe
+D:\Sorce\ArraysHomeWork\LettersInWord\obj\Debug\LettersInWord.pdb

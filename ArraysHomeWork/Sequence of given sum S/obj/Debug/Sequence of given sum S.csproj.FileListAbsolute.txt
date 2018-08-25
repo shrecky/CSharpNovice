@@ -1,0 +1,7 @@
+D:\Sorce\ArraysHomeWork\Sequence of given sum S\bin\Debug\Sequence of given sum S.exe.config
+D:\Sorce\ArraysHomeWork\Sequence of given sum S\bin\Debug\Sequence of given sum S.exe
+D:\Sorce\ArraysHomeWork\Sequence of given sum S\bin\Debug\Sequence of given sum S.pdb
+D:\Sorce\ArraysHomeWork\Sequence of given sum S\obj\Debug\Sequence of given sum S.csprojAssemblyReference.cache
+D:\Sorce\ArraysHomeWork\Sequence of given sum S\obj\Debug\Sequence of given sum S.csproj.CoreCompileInputs.cache
+D:\Sorce\ArraysHomeWork\Sequence of given sum S\obj\Debug\Sequence of given sum S.exe
+D:\Sorce\ArraysHomeWork\Sequence of given sum S\obj\Debug\Sequence of given sum S.pdb

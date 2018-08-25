@@ -5,3 +5,10 @@ D:\Projects\Excercieses5ConsoleInputOutput\ConsoleInputOutput\ConsoleInputOutput
 D:\Projects\Excercieses5ConsoleInputOutput\ConsoleInputOutput\ConsoleInputOutput\obj\Debug\Sum3Numbers.csproj.CoreCompileInputs.cache
 D:\Projects\Excercieses5ConsoleInputOutput\ConsoleInputOutput\ConsoleInputOutput\obj\Debug\ConsoleInputOutput.exe
 D:\Projects\Excercieses5ConsoleInputOutput\ConsoleInputOutput\ConsoleInputOutput\obj\Debug\ConsoleInputOutput.pdb
+D:\Sorce\Excercieses5ConsoleInputOutput\ConsoleInputOutput\ConsoleInputOutput\bin\Debug\ConsoleInputOutput.exe.config
+D:\Sorce\Excercieses5ConsoleInputOutput\ConsoleInputOutput\ConsoleInputOutput\bin\Debug\ConsoleInputOutput.exe
+D:\Sorce\Excercieses5ConsoleInputOutput\ConsoleInputOutput\ConsoleInputOutput\bin\Debug\ConsoleInputOutput.pdb
+D:\Sorce\Excercieses5ConsoleInputOutput\ConsoleInputOutput\ConsoleInputOutput\obj\Debug\Sum3Numbers.csprojAssemblyReference.cache
+D:\Sorce\Excercieses5ConsoleInputOutput\ConsoleInputOutput\ConsoleInputOutput\obj\Debug\Sum3Numbers.csproj.CoreCompileInputs.cache
+D:\Sorce\Excercieses5ConsoleInputOutput\ConsoleInputOutput\ConsoleInputOutput\obj\Debug\ConsoleInputOutput.exe
+D:\Sorce\Excercieses5ConsoleInputOutput\ConsoleInputOutput\ConsoleInputOutput\obj\Debug\ConsoleInputOutput.pdb

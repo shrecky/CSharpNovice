@@ -1,0 +1,7 @@
+D:\Sorce\ArraysHomeWork\QuickSort\bin\Debug\QuickSort.exe.config
+D:\Sorce\ArraysHomeWork\QuickSort\bin\Debug\QuickSort.exe
+D:\Sorce\ArraysHomeWork\QuickSort\bin\Debug\QuickSort.pdb
+D:\Sorce\ArraysHomeWork\QuickSort\obj\Debug\QuickSort.csprojAssemblyReference.cache
+D:\Sorce\ArraysHomeWork\QuickSort\obj\Debug\QuickSort.csproj.CoreCompileInputs.cache
+D:\Sorce\ArraysHomeWork\QuickSort\obj\Debug\QuickSort.exe
+D:\Sorce\ArraysHomeWork\QuickSort\obj\Debug\QuickSort.pdb

@@ -1,0 +1,7 @@
+D:\Sorce\ArraysHomeWork\ArrayCompare\bin\Debug\ArrayCompare.exe.config
+D:\Sorce\ArraysHomeWork\ArrayCompare\bin\Debug\ArrayCompare.exe
+D:\Sorce\ArraysHomeWork\ArrayCompare\bin\Debug\ArrayCompare.pdb
+D:\Sorce\ArraysHomeWork\ArrayCompare\obj\Debug\ArrayCompare.csprojAssemblyReference.cache
+D:\Sorce\ArraysHomeWork\ArrayCompare\obj\Debug\ArrayCompare.csproj.CoreCompileInputs.cache
+D:\Sorce\ArraysHomeWork\ArrayCompare\obj\Debug\ArrayCompare.exe
+D:\Sorce\ArraysHomeWork\ArrayCompare\obj\Debug\ArrayCompare.pdb

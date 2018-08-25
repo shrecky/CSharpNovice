@@ -1,0 +1,7 @@
+D:\Sorce\ArraysHomeWork\ArraysHomeWork\bin\Debug\ArraysHomeWork.exe.config
+D:\Sorce\ArraysHomeWork\ArraysHomeWork\bin\Debug\ArraysHomeWork.exe
+D:\Sorce\ArraysHomeWork\ArraysHomeWork\bin\Debug\ArraysHomeWork.pdb
+D:\Sorce\ArraysHomeWork\ArraysHomeWork\obj\Debug\ArraysHomeWork.csprojAssemblyReference.cache
+D:\Sorce\ArraysHomeWork\ArraysHomeWork\obj\Debug\ArraysHomeWork.csproj.CoreCompileInputs.cache
+D:\Sorce\ArraysHomeWork\ArraysHomeWork\obj\Debug\ArraysHomeWork.exe
+D:\Sorce\ArraysHomeWork\ArraysHomeWork\obj\Debug\ArraysHomeWork.pdb

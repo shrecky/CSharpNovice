@@ -1,0 +1,7 @@
+D:\Sorce\ArraysHomeWork\SequenceOfMaximalSum\bin\Debug\SequenceOfMaximalSum.exe.config
+D:\Sorce\ArraysHomeWork\SequenceOfMaximalSum\bin\Debug\SequenceOfMaximalSum.exe
+D:\Sorce\ArraysHomeWork\SequenceOfMaximalSum\bin\Debug\SequenceOfMaximalSum.pdb
+D:\Sorce\ArraysHomeWork\SequenceOfMaximalSum\obj\Debug\SequenceOfMaximalSum.csprojAssemblyReference.cache
+D:\Sorce\ArraysHomeWork\SequenceOfMaximalSum\obj\Debug\SequenceOfMaximalSum.csproj.CoreCompileInputs.cache
+D:\Sorce\ArraysHomeWork\SequenceOfMaximalSum\obj\Debug\SequenceOfMaximalSum.exe
+D:\Sorce\ArraysHomeWork\SequenceOfMaximalSum\obj\Debug\SequenceOfMaximalSum.pdb

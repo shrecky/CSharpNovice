@@ -1,0 +1,7 @@
+D:\Sorce\ArraysHomeWork\SortingArray\bin\Debug\SortingArray.exe.config
+D:\Sorce\ArraysHomeWork\SortingArray\bin\Debug\SortingArray.exe
+D:\Sorce\ArraysHomeWork\SortingArray\bin\Debug\SortingArray.pdb
+D:\Sorce\ArraysHomeWork\SortingArray\obj\Debug\SortingArray.csprojAssemblyReference.cache
+D:\Sorce\ArraysHomeWork\SortingArray\obj\Debug\SortingArray.csproj.CoreCompileInputs.cache
+D:\Sorce\ArraysHomeWork\SortingArray\obj\Debug\SortingArray.exe
+D:\Sorce\ArraysHomeWork\SortingArray\obj\Debug\SortingArray.pdb

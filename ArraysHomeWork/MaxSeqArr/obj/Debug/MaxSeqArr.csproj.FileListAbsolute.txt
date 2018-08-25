@@ -1,0 +1,7 @@
+D:\Sorce\ArraysHomeWork\MaxSeqArr\obj\Debug\MaxSeqArr.csprojAssemblyReference.cache
+D:\Sorce\ArraysHomeWork\MaxSeqArr\obj\Debug\MaxSeqArr.csproj.CoreCompileInputs.cache
+D:\Sorce\ArraysHomeWork\MaxSeqArr\bin\Debug\MaxSeqArr.exe.config
+D:\Sorce\ArraysHomeWork\MaxSeqArr\bin\Debug\MaxSeqArr.exe
+D:\Sorce\ArraysHomeWork\MaxSeqArr\bin\Debug\MaxSeqArr.pdb
+D:\Sorce\ArraysHomeWork\MaxSeqArr\obj\Debug\MaxSeqArr.exe
+D:\Sorce\ArraysHomeWork\MaxSeqArr\obj\Debug\MaxSeqArr.pdb

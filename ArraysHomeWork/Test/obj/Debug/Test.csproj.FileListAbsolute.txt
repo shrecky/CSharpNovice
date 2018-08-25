@@ -1,0 +1,7 @@
+D:\Sorce\ArraysHomeWork\Test\bin\Debug\Test.exe.config
+D:\Sorce\ArraysHomeWork\Test\bin\Debug\Test.exe
+D:\Sorce\ArraysHomeWork\Test\bin\Debug\Test.pdb
+D:\Sorce\ArraysHomeWork\Test\obj\Debug\Test.csprojAssemblyReference.cache
+D:\Sorce\ArraysHomeWork\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+D:\Sorce\ArraysHomeWork\Test\obj\Debug\Test.exe
+D:\Sorce\ArraysHomeWork\Test\obj\Debug\Test.pdb

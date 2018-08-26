@@ -1,0 +1,7 @@
+D:\Sorce\MultidimensionalArraysHomeWork\MaxSumSqure\bin\Debug\MaxSumSqure.exe.config
+D:\Sorce\MultidimensionalArraysHomeWork\MaxSumSqure\bin\Debug\MaxSumSqure.exe
+D:\Sorce\MultidimensionalArraysHomeWork\MaxSumSqure\bin\Debug\MaxSumSqure.pdb
+D:\Sorce\MultidimensionalArraysHomeWork\MaxSumSqure\obj\Debug\MaxSumSqure.csprojAssemblyReference.cache
+D:\Sorce\MultidimensionalArraysHomeWork\MaxSumSqure\obj\Debug\MaxSumSqure.csproj.CoreCompileInputs.cache
+D:\Sorce\MultidimensionalArraysHomeWork\MaxSumSqure\obj\Debug\MaxSumSqure.exe
+D:\Sorce\MultidimensionalArraysHomeWork\MaxSumSqure\obj\Debug\MaxSumSqure.pdb

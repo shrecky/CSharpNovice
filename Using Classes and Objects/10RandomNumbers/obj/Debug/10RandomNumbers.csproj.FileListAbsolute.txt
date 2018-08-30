@@ -1,0 +1,7 @@
+D:\Sorce\Using Classes and Objects\10RandomNumbers\bin\Debug\10RandomNumbers.exe.config
+D:\Sorce\Using Classes and Objects\10RandomNumbers\bin\Debug\10RandomNumbers.exe
+D:\Sorce\Using Classes and Objects\10RandomNumbers\bin\Debug\10RandomNumbers.pdb
+D:\Sorce\Using Classes and Objects\10RandomNumbers\obj\Debug\10RandomNumbers.csprojAssemblyReference.cache
+D:\Sorce\Using Classes and Objects\10RandomNumbers\obj\Debug\10RandomNumbers.csproj.CoreCompileInputs.cache
+D:\Sorce\Using Classes and Objects\10RandomNumbers\obj\Debug\10RandomNumbers.exe
+D:\Sorce\Using Classes and Objects\10RandomNumbers\obj\Debug\10RandomNumbers.pdb

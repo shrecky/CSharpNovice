@@ -1,0 +1,6 @@
+D:\Sorce\Using Classes and Objects\SumFromString\bin\Debug\SumFromString.exe.config
+D:\Sorce\Using Classes and Objects\SumFromString\bin\Debug\SumFromString.exe
+D:\Sorce\Using Classes and Objects\SumFromString\bin\Debug\SumFromString.pdb
+D:\Sorce\Using Classes and Objects\SumFromString\obj\Debug\SumFromString.csproj.CoreCompileInputs.cache
+D:\Sorce\Using Classes and Objects\SumFromString\obj\Debug\SumFromString.exe
+D:\Sorce\Using Classes and Objects\SumFromString\obj\Debug\SumFromString.pdb

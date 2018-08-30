@@ -1,0 +1,7 @@
+D:\Sorce\Methods\Methods\bin\Debug\Methods.exe.config
+D:\Sorce\Methods\Methods\bin\Debug\Methods.exe
+D:\Sorce\Methods\Methods\bin\Debug\Methods.pdb
+D:\Sorce\Methods\Methods\obj\Debug\Methods.csprojAssemblyReference.cache
+D:\Sorce\Methods\Methods\obj\Debug\Methods.csproj.CoreCompileInputs.cache
+D:\Sorce\Methods\Methods\obj\Debug\Methods.exe
+D:\Sorce\Methods\Methods\obj\Debug\Methods.pdb

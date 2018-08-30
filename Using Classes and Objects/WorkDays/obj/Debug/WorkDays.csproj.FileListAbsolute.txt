@@ -1,0 +1,7 @@
+D:\Sorce\Using Classes and Objects\WorkDays\bin\Debug\WorkDays.exe.config
+D:\Sorce\Using Classes and Objects\WorkDays\bin\Debug\WorkDays.exe
+D:\Sorce\Using Classes and Objects\WorkDays\bin\Debug\WorkDays.pdb
+D:\Sorce\Using Classes and Objects\WorkDays\obj\Debug\WorkDays.csprojAssemblyReference.cache
+D:\Sorce\Using Classes and Objects\WorkDays\obj\Debug\WorkDays.csproj.CoreCompileInputs.cache
+D:\Sorce\Using Classes and Objects\WorkDays\obj\Debug\WorkDays.exe
+D:\Sorce\Using Classes and Objects\WorkDays\obj\Debug\WorkDays.pdb
